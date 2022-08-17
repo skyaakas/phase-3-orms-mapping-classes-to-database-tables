@@ -1,0 +1,11 @@
+
+[1mFrom:[0m /home/skyaakash/Development/code/phase-3/phase-3-orms-mapping-classes-to-database-tables/bin/run:6 :
+
+    [1;34m1[0m: #!/usr/bin/env ruby 
+    [1;34m2[0m: 
+    [1;34m3[0m: require 'pry'
+    [1;34m4[0m: require_relative '../config/environment'
+    [1;34m5[0m: 
+ => [1;34m6[0m: binding.pry
+    [1;34m7[0m: "pls"
+
